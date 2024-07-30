@@ -213,6 +213,9 @@ a {
 .footer {
   background: #2e2f42;
 }
+.logo {
+  line-height: 1.17;
+}
 .footer-logo-part {
   font-weight: 700;
   font-size: 18px;
